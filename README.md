@@ -1,1 +1,1 @@
-Hangman don't need a README.md
+Hangman don't need README.md
